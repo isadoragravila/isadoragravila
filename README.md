@@ -6,7 +6,7 @@ I'm a Civil Engineering graduate from UFTM (Universidade Federal do Triângulo M
 
 I'm currently a member of the Rotaract Club of my hometown. The club is engaged in social projects that aim to help the local community and also it's focused on developing its members leadership skills.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoragravila"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoragravila&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoragravila"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoragravila&layout=compact&langs_count=6"/>
 
 How to reach me:
 
