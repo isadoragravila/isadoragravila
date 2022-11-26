@@ -10,8 +10,7 @@ Atualmente, sou membro e tesoureira do Rotaract Club de Patrocínio Novas Geraç
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoragravila"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoragravila&layout=compact&langs_count=6"/>
 
-#### Minha stack:
-<br />
+### Minha stack:
 
 **Front-end:**
 
